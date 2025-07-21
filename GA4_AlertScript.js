@@ -1,7 +1,7 @@
 
 /**
  * ============================================
- * GA4 Realtime Monitoring Script with Comments
+ * GA4 Realtime Monitoring Script
  * ============================================
  *
  * This script fetches real-time and hourly data from Google Analytics 4 (GA4)
