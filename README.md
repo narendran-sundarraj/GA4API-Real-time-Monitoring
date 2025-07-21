@@ -15,7 +15,7 @@ All this data is used and visualized via a **Realtime Monitoring Dashboard in Lo
 
 | File | Description |
 |------|-------------|
-| [`GA4_AlertScript.js`](GA4_AlertScript.js) | Full Google Apps Script code |
+| [`GA4API_Real_time_Monitoring_Script.js`](GA4API_Real_time_Monitoring_Script.js) | Full Google Apps Script code |
 | `README.md` | You’re here – full documentation |
 
 ---
@@ -98,7 +98,7 @@ These dashboards are powered directly by the Sheets updated by this script.
 ## 📎 Full Script
 
 The complete source code is available here:  
-👉 [`GA4_AlertScript.js`](GA4_AlertScript.js)
+👉 [`GA4API_Real_time_Monitoring_Script.js`](GA4API_Real_time_Monitoring_Script.js)
 
 You can copy/paste or import it into your Google Apps Script project.
 
