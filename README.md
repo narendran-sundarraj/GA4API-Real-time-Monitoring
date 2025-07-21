@@ -25,7 +25,7 @@ All this data is used and visualized via a **Realtime Monitoring Dashboard in Lo
 | Type | Link |
 |------|------|
 | **Looker Studio** | [Real-Time KPI Monitoring Dashboard](https://lookerstudio.google.com/reporting/c9c3c3c0-13e7-4680-9190-6724d202d018) |
-| **Google Sheet** | [GA4 Realtime Source Sheet](https://docs.google.com/spreadsheets/d/1P12wpLsiN-y6kJERZD71K4cCMtzGEOJCnsj5hNtnM9Q/edit?usp=sharing) |
+| **Google Sheet** | [GA4 Realtime Source Sheet](https://docs.google.com/spreadsheets/d/18O_eapEHWIJhtNQBEvtUwS7flLnPoSw7fRjjGaqafxE/edit?usp=sharing) |
 
 These dashboards are powered directly by the Sheets updated by this script.
 
