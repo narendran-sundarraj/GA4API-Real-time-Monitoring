@@ -57,7 +57,7 @@ To enable email alerts:
 3. Replace with your address and uncomment:
 
 ```javascript
-GmailApp.sendEmail("alerts@yourcompany.com", "Metrics Alert", "", { htmlBody });
+GmailApp.sendEmail("alerts@youraddress.com", "Metrics Alert", "", { htmlBody });
 ```
 
 ---
