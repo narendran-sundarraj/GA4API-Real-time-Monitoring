@@ -101,8 +101,3 @@ These links are used inside the alerting logic for reporting and email content:
 - Email functionality is off by default and must be manually enabled.
 
 ---
-
-## 👤 Author
-
-**Naren**  
-📧 [your@email.com]
